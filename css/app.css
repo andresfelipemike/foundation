@@ -1,0 +1,24 @@
+.main{
+    padding: 15px;
+    
+}
+h1{
+    font-size: 38.9px;
+}
+h2{
+    font-size: 20px;
+}
+p{
+    text-align: justify;
+}
+.img{
+    max-height: 91px;
+    margin: 10px;
+}
+.comentarios p{
+    margin: 10px !important;
+}
+card{
+    max-height: 101px;
+    
+}
